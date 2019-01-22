@@ -1,0 +1,516 @@
+# Terms of Use
+
+Version: V1.2019
+Effective as of January 1, 2019 for all users.
+
+Thank you for choosing Raly!
+
+This user agreement is a contract between you and TNX Inc. a Canadian company, owner of Raly brand, and all international subsidiaries owned by the company. Hereafter referred to as "Raly". Raly a registered Canadian corporation with Money Service Business (MSB) license. This agreement is governing your use of your Raly account and the Raly services and it applies to all Raly accounts.
+
+By using Raly, you represent and warrant that you have the full right, power and authority to enter into these agreements and to fully perform all of your obligations under these terms and conditions. You further represent and warrant that you are under no legal disability or contractual restriction that prevents you from entering into these agreements.
+
+If you are an individual, you must be at least 18 years old. If you are under the age 18 you must have the parental or legal guardian permission and supervision to open a Raly account and use the Raly services. Any use or access to the Raly services by anyone under the age of 18 who is not directly supervised by their parent or legal guardian constitutes a violation of these Terms of Use. Raly may not be available to any users previously removed from the service by Raly.
+
+If you are a business, the business must be registered and in full compliance of your local tax laws. By opening and using a Raly account, you agree to comply with all of the terms and conditions in this user agreement.
+
+You also agree to comply with the following additional policies and each of the other agreements on the Legal Agreements page that apply to you:
+
+    Privacy Policy
+    Terms of Service
+    Acceptable Use Policy
+
+Please read carefully all of the terms and conditions of this user agreement, the terms of these policies and each of the other agreements that apply to you.
+
+We may amend this agreement and any of the policies listed above from time to time.  The revised version will be effective at the time we post it, unless otherwise noted. If our changes reduce your rights or increase your responsibilities we will post a notice on the Policy Updates page of our website and provide notice to you of at least 30 days (and at least 90 days to our Business Account holders in the case of the introduction of a new fee or an increase of an existing fee which applies them).
+
+For Canadian users, if you reside in Quebec and are a consumer within the meaning of the Consumer Protection Act (Quebec), your notice will set forth the change, the date of the coming into force of the change and your rights to refuse such change and to rescind the agreement without cost, penalty or cancellation indemnity by sending us a notice to that effect no later than 30 days after the modification comes into force.
+
+If you do not agree to the revised terms and conditions, you must stop using the Raly Services, close your account and terminate your relationship with us without cost or penalty. This user agreement will continue to apply to your previous use of our services. Amendments and updates that apply to consumers may relate to: (i) the nature of Raly services; (ii) the rights, obligations and liabilities of consumers; (iii) communications and notices; (iv) password security and identity authentication; (v) payment methods; (vi) sending or withdrawal limits; (vii) account balances; (viii) closing of accounts; (ix) fees and currency conversion; (x) restricted activities; (xi) protection for sellers and buyers; (xii) resolution procedures for unauthorized transactions and processing errors; (xiii) disputes with Raly; (xiv) governing law and jurisdiction; (xv) limitations of liability and warranties; and (xvi) definitions.
+
+## User Accounts
+You are responsible for maintaining adequate security and control of any and all devices, IDs, passwords, personal identification numbers, or any other codes that you use to access your Raly account and the Raly services. You must keep your phone number, mailing address, email address and other contact information current in your Raly account profile.
+
+You access to Raly services are limited in functionality until your identity is verified. The required identifying information is: legal name, physical address, date of birth, and social security or taxpayer identification number.
+
+To verify your identity we require documents proving your legal information such as drivers license, passport, or social insurance number. Failure to provide authentic and true information is considered violation of these agreements and are subject to investigation by local law enforcement.
+
+You may close your account and terminate your relationship with us at any time without cost or penalty, but you will remain liable for all obligations related to your Raly account even after the Raly account is closed.  When you close your Raly account, we will cancel any scheduled or incomplete transactions. You must withdraw or transfer any Raly balance from your Raly account before closing it.
+
+In certain cases, you may not close your Raly account, including:
+
+. To evade an investigation.
+. If you have a pending transaction or an open dispute or claim.
+. If your Raly account has a negative balance.
+. If your Raly account is subject to a hold, limitation or reserve.
+
+## Payment and Money
+You can link or unlink credit cards, Visa debit cards or bank accounts to your Raly account as a payment method. Please keep your payment method information current (i.e. credit card number and expiration date).  If this information changes, we may update it using information and third party sources available to us without any action on your part. If you do not want us to update your card information, you may contact your issuer to request this or remove your payment method from your Raly account. If we update your payment method, we will keep any preference setting attached to such payment method.
+
+Raly uses a multiple currency system whereby international banks are used to store funds. In Canada and USA, Raly uses Canada Deposit Insurance Corporation (“CDIC”) or Federal Deposit Insurance Corporation ("FDIC") insured bank accounts to manage its funds. Any Raly balance you hold inside Raly's virtual digital wallets, represents an unsecured claim against Raly and is not directly insured by the Canada Deposit Insurance Corporation (“CDIC”) or Federal Deposit Insurance Corporation ("FDIC") by any other provincial or state insurer of deposits. Raly reserves the right to invest the funds in liquid or low risk investments. Raly owns the interest or other earnings on these investments. These pooled amounts are considered separate from Raly’s corporate funds, and will not voluntarily make these funds available to its creditors in the event of bankruptcy.
+
+### Wallet and Balance
+In Raly funds are held in virtual digital wallets, hereafter referred to as "wallet", are protected by cryptography whereby only those with access to both private and public cryptographic keys can manage the virtual funds. Spending or transfering the available balance of any wallet is reallocation of claim to funds managed by Raly and not reallocation of ownership. You may transfer any amount of funds within the systems limitations to other users or wallets or exchanged into any allowed and/or supported currencies. You may withdraw any portion of wallet balance to a linked bank account on the condition the bank account and your identity is verified 10 business days prior to withdrawal action. If we have not verified the required identifying information that you have provided to us, you cannot withdraw money to your bank account. You may not be able to withdraw funds from wallets to a credit-card due to limitation or restriction by credit-card providers and third-part payment gateways.
+
+Bank transfers for both depositing funds into wallet or withdrawing from wallet into a bank account may take several days or weeks depending on the bank and local banking system.
+
+Raly offers several different wallet types with different system wide functionalities:
+. Cash wallet
+. Debit wallet
+. other wallet kinds
+
+Raly reserves the right to add or remove wallet types or change the fees, systematics or functionalities of all wallet types.
+
+Cash and Debit wallets are generated automatically for each profile the user account owns. The difference between Cash and Debit wallets are primarliy based on fees which can be found on Fees Page.
+
+### Adding money
+You may transfer any amount money to your Raly account wallets from linked payment accounts such as credit-cards or bank accounts. You may use the payment methods linked to your Raly account to directly fund transactions to send money or purchase using your Raly account.
+
+Adding funds to your own wallet from a credit-card may have extra fees or higher credit-card interest rate.
+
+### Withdrawing money
+Your Raly balance may be transferred out of Raly by:
+. Manually transferring it to a bank account linked to your Raly account, or
+. Transferring it to an eligible debit card linked to your Raly account, subject to the fees applicable to such transfers that can be found on the Fees page.
+
+### Bank transfer reviews
+We review account and transaction activity at various times, including when bank transfers are initiated. This review checks for, among other things, suspicious or illegal activity, and whether your account activity and the activity of users with whom you’ve transacted comply with this agreement. In connection with our review process, you may be required to provide us with additional information and/or documentation to verify your identity. We may limit your account and your access to money in it or that is sent to you until verification is completed.
+
+Reviews may result in:
+
+. delayed, blocked or cancelled transfers;
+. money or payments being held by us;
+. money or payments being applied to amounts you owe to us or used to offset loss incurred by us;
+. account limitation, suspension or termination;
+. money or payments being seized to comply with a court order, warrant or other legal process; and/or
+. money or payments you previously received being reversed (i.e., sent back to the sender or to the card or bank account that was used to fund the payment).
+
+Among other reasons, we may take the above actions if you knowingly or unknowingly were a participant in a payment that was made from a stolen card, compromised bank account, or compromised Raly account, or if you were a participant in a transaction for goods and services between two personal accounts.
+
+RALY SHOULD ONLY BE USED TO TRANSACT WITH PEOPLE YOU KNOW AND TRUST. DO NOT USE RALY TO TRANSACT WITH PEOPLE YOU DON’T KNOW, ESPECIALLY IF THE PAYMENT INVOLVES THE PURCHASE OR SALE OF A GOOD OR SERVICE. IF YOU USE RALY TO CONDUCT A TRANSACTION AND WE LATER REVERSE THE PAYMENT (WHICH COULD OCCUR IF IT IS DETERMINED THAT THIS AGREEMENT WAS VIOLATED OR IF THE PAYMENT WAS MADE USING A COMPROMISED PAYMENT METHOD OR ACCOUNT), YOU COULD LOSE BOTH THE UNDERLYING GOODS OR SERVICES AND THE MONEY SENT FOR THEM.
+
+### Fees
+We may, at our discretion, impose limits on the amount and/or the number of payments you can send and receive. You can view any sending limit on our Payment Limits page.
+
+The fees applicable to sending money can be found on the Fees page. If you use your credit-card as the payment method when sending money, you may also be charged a cash-advance fee by your card issuer.
+
+In order to manage risk, we may limit the payment methods available when you make a payment.
+
+Fees and limits may change from time to time in our sole discretion.
+
+### Payment and Transfer Reviews
+When we identify a potentially high-risk payment, we review the transaction more closely before allowing it to proceed. When this happens, we will place a hold on the transaction and notify the other party to delay delivery of the item or service. As a buyer, this may delay your receipt of the item or services you purchased. If we clear the transaction, we will notify the parties involved and if we don’t clear the transaction, we will cancel it and return the money to you, unless we are legally required to take other action.
+
+
+### Refunds
+When you make a payment transaction using Raly and the transaction is ultimately refunded, the money will be sent back to the sending party. Money may not always be refunded to the payment method originally used and instead made available in your default Raly wallet.
+
+### Criminal activity
+Any criminal activity, suspicious actions and attempt in illegal actions such as money laundering, purchase or sale of illegal drugs, narcotics and guns may result in closure of account and loss of funds.
+
+
+### Sharing Wallets
+
+### Sharing Transactions
+We put you in control so that you can decide who can see your Raly payments and purchases. Payments made by Raly accounts may be set to public by default. You can change your privacy settings for individual payments or in the Privacy section of your Raly account settings. For more information, review Payment Activity & Privacy.
+
+IMPORTANT: ALL TRANSACTIONS AND PAYMENTS DONE ON RALY IS FINAL. ONLY IN THE EVENT BOTH SIDE OF TRANSACTIONS (I.E. PAYEE AND PAYOR) REACH AN AGREEMENT, THE NEW TRANSACTION SHOULD BE CREATED TO REVERSE THE PREVIOUS TRANSACTION. IN THE EVENT THE FUNDS ARE SENT TO THE WRONG DESTINATION IS ELIGIBLE FOR RALY TO REVIEW THE TRANSACTION FOR POTENTIAL REVERSAL. ONLY QUALIFIED CLAIMS AGAINST A TRANSACTION, DESCRIBED BELOW, ARE SUBJECT TO REVIEWS AND DECISION OF RALY FOR REFUND.
+
+Our determination in all matters regarding transactions is considered final, but you may be able to file an appeal of the decision with us if you have new or compelling information not available at the time of the original determination or you believe there was an error in the decision-making process.
+
+You may be required to return the item to the seller or other party we specify as part of the settlement of your claim. The Raly Protected Purchase program does not entitle you to reimbursement for the return shipping costs that you may incur.
+
+If you believe that a transaction made through your Raly account was not authorized by you, this type of claim is described below under Protection from Unauthorized Transactions.
+
+### Transaction involving purchases of goods and services
+Raly is only a payment provider and cannot be liable or responsible for any transactions involving goods and services where the merchant party is responsible for quality and authenticity of good and services sold. Your claim will not qualify for a refund under the Raly terms. Raly may review and assist in "Significantly Not" as Described claims such as:
+
+An item may be considered "Significantly Not as Described" if:
+
+. The item is materially different from the seller’s description of it.
+. You received a completely different item.
+. The condition of the item was misrepresented. For example, the item was described as “new” but the item was used.
+. The item was advertised as authentic but is not authentic (i.e. counterfeit).
+. The item is missing major parts or features and those facts were not disclosed in the description of the item when you bought it.
+. You purchased a certain number of items but didn’t receive them all.
+. The item was damaged during shipment.
+. The item is unusable in its received state and was not disclosed as such.
+. The service provider failed to show up.
+. The service provider was not licensed (only if the job required a licensed professional).
+
+An item may not be considered "Significantly Not as Described" if:
+
+. The defect in the item was correctly described by the seller in its description of the item.
+. The item was properly described but you didn't want it after you received it.
+. The item was properly described but did not meet your expectations.
+. The item has minor scratches and was described as “used."
+. The service was conducted.
+
+#### General eligibility for Raly’s Protections
+To be eligible for the Raly protection claims you must meet all of the following requirements:
+
+. You have a Raly account in good standing.
+. You pay for the eligible item using your Raly wallet.
+. You have previously attempted to resolve the issue directly with the seller.
+. You respond to our request for documentation and other information within the time requested.
+. You open a dispute with us within 14 days of the date you made the purchase, then follow our dispute resolution process.
+. You have not received a recovery related to such purchase from another source.
+. Ineligible items and transactions under the Raly Protected Purchase program
+. Payments for the following are not eligible for reimbursement under the Raly Protected Purchase program:
+
+Any payments made using your Raly account:
+. Real estate, including residential property.
+. Financial products or investments of any kind.
+. Businesses (when you buy or invest in a business).
+. Vehicles, including, but not limited to, motor vehicles, motorcycles, recreational vehicles, aircraft and boats.
+
+Significantly Not As Described claims for wholly or partly custom-made items.
+. Donations, including payments on crowdfunding platforms.
+. Items prohibited by this user agreement and/or the Acceptable Use Policy.
+. For Item Not Received claims, items which you collect in person or arrange to be collected on your behalf, including items bought in a seller’s store location.
+. Industrial machinery used in manufacturing.
+. Anything purchased from, or an amount paid to, a government agency.
+. Stored value items such as gift cards and pre-paid cards.
+. Gambling, gaming and/or any other activity with an entry fee and a prize.
+. Payments sent using your Raly account to any bill payment service.
+
+#### Protected Purchase dispute resolution process
+If you’re unable to resolve a transaction related issue directly with a seller, you can file a dispute using the steps described below. If you do not follow these steps your claim may be denied:
+
+Step 1: Open a dispute within 14 days of the date you made the purchase. Please include information on the disputed transaction and the reason for your claim, including the date and amount of the transaction, the seller’s name, and an explanation of your issue.
+
+Step 2: Respond to our requests for documentation or other information. We may require you to provide receipts, third party evaluations, police reports or other documents that we specify. You must respond to these requests in a timely manner as requested in our correspondence with you.
+
+Step 3: Comply with our shipping requests in a timely manner, if you’re filing a Significantly Not as Described claim, we may require you, at your expense, to ship the item back to the seller, to us or to a third party (which we will specify) and to provide proof of delivery.
+
+Proof of delivery means:
+
+For transactions that total less than \$500 U.S. dollars, confirmation that can be viewed online and includes the delivery address showing at least city/state or zip code, delivery date, and the identity of the shipping company you used.
+For transactions that total \$500 U.S. dollars or more, you must provide signature confirmation of delivery.
+Step 4: We will make a decision (including automatically closing any dispute or claim), in our sole discretion, based on the coverage and eligibility requirements set forth above, any additional information provided during the dispute resolution process or any other information we deem relevant and appropriate under the circumstances.
+
+Dispute with us or your card issuer
+If you used a debit or credit card as the payment method for a transaction through your Raly account and you are dissatisfied with the transaction, you may be entitled to dispute the transaction with your card issuer. Applicable card chargeback rights may be broader than those available to you under the Raly terms. For example, if you dispute a transaction with your card issuer, you may be able to recover amounts you paid for unsatisfactory items even if they don’t qualify for protection under a claim with us.
+
+You must choose whether to pursue a dispute with us under the Raly protection, or to pursue the dispute with your card issuer. You can’t do both at the same time or seek a double recovery. If you pursue a dispute/claim with us under the Raly terms and you also pursue a dispute for the same transaction with your card issuer, we’ll close your dispute/claim with us. This won’t affect the dispute process with your card issuer. In addition, if you pursue a dispute with your card issuer, you cannot pursue a dispute/claim under the Raly Protected Purchase program with us later.
+
+If you choose to dispute a transaction with us under the Raly terms and we decide against you, you can seek to pursue the dispute with your card issuer later. If we do not make a final decision on your claim until after your card issuer's deadline for filing a dispute, and because of our delay you recover less than the full amount you would have been entitled to recover from the card issuer, we will reimburse you for the remainder of your loss (minus any amount you have already recovered from the seller or your card issuer).
+
+Before contacting your card issuer or filing a dispute with us under the Raly Protected Purchase program, you should contact the seller to attempt to resolve your issue in accordance with the seller’s return policy.
+
+### Refunds, Reversals and Chargebacks
+####Payments that are invalidated and reversed
+Payments may be invalidated and reversed by us if, among other reasons, Raly sent the payment to you in error, the funding transaction is declined or reversed, the payment was unauthorized or unfunded, or if the payment was for activities that violated this user agreement or any other agreement with us.
+
+As the sender or recipient of a payment that is later invalidated for any reason, you may be liable to us for the full amount of the payment and we may recover the amount of the payment (plus any fees) from you. We may recover the amount of the payment from either the sender or the recipient of an invalidated payment in our discretion (subject to applicable law). For example, if you send a payment funded by a bank account and the bank informs us it cannot cover the payment due to a lack of funds or a dispute, we may hold you liable for the payment, or if you were the recipient of that payment, we may reverse that payment from your account to cover the liability.
+
+When recovering the amount of an invalidated payment from you, we may apply any money sent to you on Raly, request that you add money to your account for the amount of the payment and apply that money to amounts owed, and/or we may:
+
+. engage in collection efforts to recover such amounts from you;
+. take any or all action as outlined under Amounts Owed to Us; and
+. place a limitation or take other action on your Raly account as outlined under Restricted Activities and Holds and Limitations.
+
+If we invalidate a payment because the card issuer or originating bank declined or reversed the transaction, then you may be liable for the payment even if you disagree with the decision of the card issuer or originating bank to decline or reverse the payment. If you believe that a payment initiated with your Raly account was not authorized, then you must notify us immediately, even if you (or someone else) disputes the transaction with the card issuer or originating bank. Please see below under the heading Reporting an Unauthorized Transaction for information about how to notify us. If you fail to report the unauthorized activity directly to us, then we may recover the amount of the reversed payment from you, as described above.
+
+## Restricted Activities
+In connection with your use of our mobiles apps, websites, your Raly account, the Raly services, or in the course of your interactions with us, other customers, or third parties, you must not:
+
+. Breach this user agreement, the Acceptable Use Policy, or any other agreement between you and us;
+. Violate any law, statute, ordinance, or regulation (for example, those governing financial services, consumer protections, unfair competition, anti-discrimination or false advertising);
+. Infringe our or any third party's copyright, patent, trademark, trade secret or other intellectual property rights, or rights of publicity or privacy;
+. If you have a personal account, use your Raly account to conduct transactions for goods or services with other personal accounts, except for purchases from authorized merchants or made using your Raly Mastercard;
+. Create or control more than one personal account for yourself without our express authorization, through, among other methods, using a name that is not yours, using a temporary email address or phone number, or providing any other falsified personal information;
+. Act in a manner that is defamatory, trade libelous, threatening or harassing;
+. Provide false, inaccurate or misleading information;
+. Send or receive what we reasonably believe to be potentially fraudulent money or payments for advertising, marketing, or otherwise on an unsolicited and unauthorized basis;
+. Refuse to cooperate in an investigation or provide confirmation of your identity or any information you provide to us;
+. Attempt to double dip during the course of a dispute by receiving or attempting to receive money from both us and the recipient of a payment, bank or card issuer for the same transaction;
+. Control an account that is linked to another Raly or Raly account that has engaged in any of these restricted activities;
+. Use the Raly services in a manner that results in or may result in:
+	. complaints;
+	. disputes; claims, reversals, chargebacks,
+	. fees, fines, penalties or other liability or losses to Raly or Raly, other customers, third parties or you;
+. Use your Raly account or the Raly services in a manner that we, Visa, Mastercard, American Express, Discover or any other electronic funds transfer network reasonably believes to be an abuse of the card system or a violation of card association or network rules, or for the purpose of earning rewards, perks, miles, points, etc. with your credit card, debit card, or bank account;
+. Have any amounts owed to us;
+. Provide yourself a cash advance from your credit card (or help others to do so);
+. Access the Raly services from outside the United States;
+. Take any action that imposes an unreasonable or disproportionately large load on our websites, software, systems (including any networks and servers used to provide any of the Raly services) operated by us or on our behalf or the Raly services;
+. Facilitate any viruses, trojan horses, malware, worms or other computer programming routines that attempts to or may damage, disrupt, corrupt, misuse, detrimentally interfere with, surreptitiously intercept or expropriate, or gain unauthorized access to any system, data, information or Raly services;
+. Use an anonymizing proxy; use any robot, spider, other automatic device, or manual process to monitor or copy our websites without our prior written permission; or use any device, software or routine to bypass our robot exclusion headers;
+. Interfere or disrupt or attempt to interfere with or disrupt our websites, software, systems (including any networks and servers used to provide any of the Raly services) operated by us or on our behalf, any of the Raly services or other users’ use of any of the Raly services;
+. Take any action that may cause us to lose any of the services from our Internet service providers, payment processors, or other suppliers or service providers;
+. Use the Raly services to test credit card behaviors, or make excessive or unexplainable transactions;
+. Circumvent any of our policies or determinations about your Raly account such as temporary or indefinite suspensions or other account holds, limitations or restrictions, including, but not limited to, engaging in the following actions: attempting to open new or additional Raly account(s) when you have amounts owed to us or when your Raly account has been restricted, suspended or otherwise limited; opening new or additional Raly accounts using information that is not your own (e.g. name, address, email address, etc.); or using someone else’s Raly account; or
+. Harass and/or threaten our employees, agents, or other users.
+
+Actions We May Take if You Engage in Any Restricted Activities
+If we believe that you’ve engaged in any of these activities, we may take a number of actions to protect ourselves, our customers and others at any time in our sole discretion. The actions we make take include, but are not limited to, the following:
+
+. Terminate this user agreement, limit your Raly and/or Raly account, and/or close or suspend your Raly and/or Raly account, including cancelling your Raly Mastercard (if any), immediately and without penalty to us;
+Refuse to provide the Raly or Raly services to you in the future;
+. Limit your access to our websites, software, systems (including any networks and servers used to provide any of the Raly or Raly services) operated by us or on our behalf, your Raly or Raly account or any of the Raly or Raly services, including limiting your ability to pay or send money with any of the payment methods linked to your Raly or Raly account, restricting your ability to send money or make bank transfers;
+. Hold your Raly balance for up to 180 days if reasonably needed to protect against the risk of liability or if you have violated our Acceptable Use Policy;
+. Suspend your eligibility for the Raly Protected Purchase program and/or Raly’s Purchase Protection program;
+. Update inaccurate information you provided us;
+. Take legal action against you; or
+. If you’ve violated our Acceptable Use Policy, then you’re also responsible for damages to us caused by your violation of this policy.
+
+If we close your Raly account or terminate your use of the Raly services for any reason, we’ll provide you with notice of our actions and make any unrestricted money held in your Raly account or that has been sent to you available for bank transfers.
+
+You are responsible for all reversals, chargebacks, claims, fees, fines, penalties and other liability incurred by us, any customer, or a third party caused by or arising out of your breach of this agreement, and/or your use of the Raly services. For example, if you send a payment funded by your bank account and your bank informs us you do not have sufficient funds to cover the payment, you may be liable for the payment. Similarly, if you receive a payment and the payment is disputed, you may be liable for the payment.
+
+### Holds and Limitations
+#### What are holds and limitations
+Under certain circumstances, in order to protect Raly and the security and integrity of the network that uses the Raly services, Raly may, in its sole discretion, take account-level or transaction-level actions.
+
+Our decision about holds and limitations may be based on confidential criteria that are essential to our management of risk and the protection of Raly, our customers and/or service providers. We may use proprietary fraud and risk modeling when assessing the risk associated with your Raly account. In addition, we may be restricted by regulation or a governmental authority from disclosing certain information to you about such decisions. We have no obligation to disclose the details of our risk management or security procedures to you.
+
+#### Holds
+A hold is an action that Raly may take under certain circumstances either at the transaction level or the account level. When Raly places a temporary hold on a transaction, the money is not available to either the sender or the recipient. Raly reviews many factors before placing a hold on a transaction, including: account tenure, transaction activity, and past disputes.
+
+#### Holds based on Raly’s risk decisions
+We may place a hold on transactions involving your Raly account if, in our sole discretion, we believe that there may be a high level of risk associated with you, your Raly account, or your transactions or that placing such a hold is necessary to comply with state or federal regulatory requirements. We make decisions about whether to place a hold based on a number of factors, including information available to us from both internal sources and third parties.
+
+Risk-based holds may remain in place for up to 180 days from the date the transaction was made. We may release the hold earlier under certain circumstances, but any earlier release is at our sole discretion.
+
+#### Account Limitations
+Limitations are implemented to help protect Raly and Raly users when we notice restricted activities or activity that appears to us as unusual or suspicious. Limitations also help us collect information necessary for keeping your Raly account open.
+
+There are several reasons why your Raly account could be limited, including:
+
+. If we suspect someone could be using your Raly account without your knowledge, we’ll limit it for your protection and look into the unusual activity.
+. If another financial institution alerts us that someone has used one of your linked payment methods without permission.
+. In order to comply with the law.
+. If we reasonably believe you have breached this agreement or violated the Acceptable Use Policy.
+
+You will need to resolve any issues with your account before a limitation can be removed. Normally, this is done after you provide us with the information we request. However, if we reasonably believe a risk still exists after you have provided us that information, we may take action to protect us, our users, a third party, or you from reversals, fees, fines, penalties, legal and/or regulatory risks and any other liability.
+
+#### Court Orders, Regulatory Requirements or Other Legal Process
+If we are notified of a court order or other legal process (including garnishment or any equivalent process) affecting you, or if we otherwise believe we are required to do so in order to comply with applicable law or regulatory requirements, we may be required to take certain actions, including holding payments to/from your Raly account, placing a hold or limitation on your Raly account, or releasing your funds. We will decide, in our sole discretion, which action is required of us. We do not have an obligation to contest or appeal any court order or legal process involving you or your Raly account. When we implement a hold or limitation as a result of a court order, applicable law, regulatory requirement or other legal process, the hold or limitation may remain in place longer than 180 days.
+
+#### Protection from Unauthorized Transactions
+To protect yourself from unauthorized activity in your Raly account, you should regularly log into your Raly account and review your Raly account statement. We will notify you of each transaction by sending an email to your primary email address on file and/or creating a story in your feed, depending on your preferences. You should review these transaction notifications to ensure that each transaction was authorized and accurately completed.
+
+We will protect you from unauthorized activity in your Raly account. The following terms and conditions apply with respect to all Raly services, other than those associated with the Raly Mastercard. For resolution procedures for unauthorized transactions and other errors associated with your use of the Raly Mastercard, please see the Raly Mastercard Cardholder Agreement. When the below protection applies, we will cover you for the full amount of the unauthorized activity as long as you cooperate with us and follow the procedures described below.
+
+#### What is an Unauthorized Transaction
+An “Unauthorized Transaction” occurs when money is sent from your Raly account that you did not authorize and that did not benefit you. For example, if someone steals your password, uses the password to access your Raly account, and sends a payment from your Raly account, an Unauthorized Transaction has occurred.
+
+#### What is not considered an Unauthorized Transaction
+The following are NOT considered Unauthorized Transactions:
+
+. If you give someone access to your Raly account (by giving them your phone or login information) and they use your Raly account without your knowledge or permission. You are responsible for transactions made in this situation.
+. Invalidation and reversal of a payment as a result of the actions described under Refunds, Reversals and Chargebacks.
+Reporting an Unauthorized Transaction
+
+If you believe your Raly login information has been lost or stolen, please contact Raly customer service immediately.
+
+Tell us AT ONCE if you believe that an electronic fund transfer has been made without your permission using your login information or by other means, or if your Raly-activated mobile phone has been lost, stolen, or deactivated. You could lose all the money in your Raly account. If you tell us within 60 days after we provide you your Raly account statement showing transfers you did not make, you will be eligible for 100% protection for Unauthorized Transactions.
+
+Also, if your Raly account statement shows transfers that you did not make, including those made with your Raly login information or by other means, tell us at once. If you do not tell us within 60 days after we provided the statement to you, you may not get back any money you lost after the 60 days if we can prove that we could have stopped someone from taking the money if you had told us in time. If a good reason (such as a long trip or a hospital stay) kept you from telling us, we may extend the time periods.
+
+Filing a chargeback or reversal with your financial institution related to a Raly payment does not constitute notice of an Unauthorized Transaction to us. You must contact us directly to notify us of Unauthorized Transactions by reaching out to Raly customer service.
+
+### Error Resolution
+#### What is an error
+An “error” means the following:
+
+. When money is either incorrectly taken from your Raly account or incorrectly placed into your Raly account, or when a transaction is incorrectly recorded in your Raly account.
+. You send a payment and the incorrect amount is debited from your Raly account.
+. An incorrect amount is credited to your Raly account.
+. A transaction is missing from or not properly identified in your Raly account statement.
+. We make a computational or mathematical error related to your Raly account.
+
+#### What is not considered an error
+The following are NOT considered errors:
+
+. If you give someone access to your Raly account (by giving them your login information) and they use your Raly account without your knowledge or permission. You are responsible for transactions made in this situation.
+. Invalidation and reversal of a payment as a result of the actions described under Refunds, Reversals and Chargebacks.
+. You request a receipt or periodic statement documents that we are required to provide to you.
+. Routine inquiries about your Raly balance or the status of a pending transfer to or from your Raly account, unless you expressly notify us of an error in connection with the transfer.
+. Requests for duplicate documentation or other information for tax or other recordkeeping purposes.
+
+In case of errors or questions about your electronic transfers
+Contact us through the Help Center on the Raly website
+
+Notify us as soon as you can if you think your statement or receipt is wrong or if you need more information about a transfer listed on the statement or receipt. We must hear from you no later than 60 days after we sent the FIRST statement on which the problem or error appeared. Filing a chargeback or reversal with your financial institution related to a Raly payment does not constitute notice of an error to us. You must contact us directly to notify us of errors. When you notify us:
+
+. Tell us your name and account number (if any).
+. Describe the error or the transfer you are unsure about, and explain as clearly as you can why you believe it is an error or why you need more information.
+. Tell us the dollar amount of the suspected error.
+If you tell us orally, we may require that you send us your complaint or question in writing within 10 Business Days.
+
+We will determine whether an error occurred within 10 Business Days after we hear from you and will correct any error promptly. If we need more time, however, we may take up to 45 days to investigate your complaint or question. If we decide to do this, we will provisionally credit your Raly account within 10 Business Days for the amount you think is in error and will notify you within 2 Business Days of the credit, so that you will have the use of the money during the time it takes us to complete our investigation. If we ask you to put your complaint or question in writing and we do not receive it within 10 Business Days, we may not credit your Raly account.
+
+For errors involving new Raly accounts or point-of-sale transactions, we may take up to 90 days to investigate your complaint or question. For new Raly accounts, we may take up to 30 Business Days to credit your Raly account for the amount you think is in error.
+
+We will tell you the results within 3 Business Days after completing our investigation.
+
+If we determine that there was an error, we will promptly credit the full amount of the error into your account within 1 Business Day of our determination. Or, if you have already received a provisional credit, you will be allowed to retain those amounts.
+If we decide that there was no error, we will send you a written explanation, and, if you received a provisional credit, after giving you 5 Business Days advance notice of the date and amount of the debit, we will remove it from your account. You may ask for copies of the documents that we used in our investigation.
+
+####  Processing Errors
+We will rectify any processing error that we discover. If the error results in:
+
+. You receiving less than the correct amount to which you were entitled, then we will credit your Raly account for the difference between what you should have received and what you actually received.
+. You receiving more than the correct amount to which you were entitled, then we will debit your Raly account for the difference between what you actually received and what you should have received.
+. Our not completing a transaction on time or in the correct amount, then we will be responsible to you for your losses or damages directly caused by this failure, unless:
+	. through no fault of ours, you did not have enough available funds to complete the transaction;
+	. our system was not working properly and you knew about the breakdown when you started the transaction; or
+	. the error was due to extraordinary circumstances outside our control (such as fire, flood or loss of Internet connection), despite our reasonable precautions.
+
+#### Processing errors are not:
+
+. Delays that result from us applying holds or limitations.
+. Delays based on a payment review or bank transfer review.
+. Delays described under How to buy something related to the time it may take for a purchase transaction to be completed in some situations.
+. Your errors in making a transaction (for example, mistyping an amount of money that you are sending).
+
+### Communications Between You and Us
+If you provide us your mobile phone number, you agree that we, including our affiliates, may contact you at that number using autodialed or prerecorded message calls or text messages to: (i) service your Raly branded accounts, (ii) investigate or prevent fraud, or (iii) collect a debt. We will not use autodialed or prerecorded message calls or texts to contact you for marketing purposes unless we receive your prior express written consent. We may share your mobile phone number with service providers with whom we contract to assist us with the activities listed above, but we will not share your mobile phone number with third parties for their own purposes without your consent.
+
+We may communicate with you about your Raly account and the Raly services electronically as described in our Consent to Receive Electronic Disclosures. You will be considered to have received a communication from us, if it’s delivered electronically, 24 hours after the time we post it to our website or email it to you. You will be considered to have received a communication from us, if it’s delivered by mail, 3 Business Days after we send it.
+
+Unless you’re communicating with us about a matter where we’ve specified another notice address (for example, our Protection from Unauthorized Transactions process), written notices must be sent by postal mail to: Raly, Inc., Attention: Legal Department, 2211 North First Street, San Jose, California 95131.
+
+You understand and agree that, to the extent permitted by law, we may, without further notice or warning, monitor or record telephone conversations you or anyone acting on your behalf has with us or our agents for quality control and training purposes or for our own protection. You acknowledge and understand that while your communications with us may be overheard, monitored, or recorded not all telephone lines or calls may be recorded by us, and we do not guarantee that recordings of any particular telephone calls will be retained or retrievable.
+
+### Our Rights
+Our suspension and termination rights
+We, in our sole discretion, reserve the right to suspend or terminate this user agreement, access to or use of our websites, software, systems (including any networks and servers used to provide any of the Raly services) operated by us or on our behalf or some or all of the Raly services for any reason and at any time upon notice to you and, upon termination of this user agreement, the payment to you of any unrestricted money being held for you.
+
+#### Security interest
+As security for the performance of your obligations under this user agreement, you grant to us a lien on, and security interest in and to, your Raly balance and any other funds held in our possession.
+
+#### Amounts owed to us
+We may deduct amounts owed to us, in whole or in part, from money that is sent to your Raly account later, either by you or from payments sent to you. While you owe amounts to us, we may:
+
+. reverse payments you have sent;
+. engage in collection and other efforts to recover such amounts from you, including, but not limited to, making attempts on your linked payment methods to cover the amounts; and
+. place a limitation or take other action on your Raly account as outlined under Restricted Activities and Holds.
+
+If you have more than one Raly account, even if you have those accounts without our authorization and in breach of this agreement, we may set off amounts owed to us in one Raly account against a Raly balance in or money sent to your other Raly account(s). If you continue using your Raly account when you have amounts owed to us, you authorize us to combine amounts owed to us with any debit or transaction sent from your account.
+
+In addition to the above, if you have a past due amount owed to us, including our affiliates, we may debit your Raly account or accounts held at our affiliates or various products to pay any amounts that are past due. This includes accounts and amounts owed by using our various products such as Raly or other products and services.
+
+IF YOU HAVE AMOUNTS PAST DUE, YOU SHOULD CONFIRM THAT YOUR PAYMENT METHODS CONTAIN FUNDS SUFFICIENT TO COVER ANY AMOUNTS PAST DUE. THIS WILL HELP YOU AVOID OVERDRAFT OR OTHER FEES YOUR FINANCIAL INSTITUTION MAY CHARGE.
+
+#### Insolvency proceedings
+If any proceeding by or against you is commenced under any provision of the Canadian or United States Bankruptcy Code, as amended, or under any other bankruptcy or insolvency law, we’ll be entitled to recover all reasonable costs or expenses (including reasonable legal fees and expenses) incurred in connection with the enforcement of this agreement.
+
+#### Assumption of rights
+If we invalidate and reverse a payment that you made to a recipient (either at your initiative or otherwise), you agree that we assume your rights against the recipient and third parties related to the payment, and may pursue those rights directly or on your behalf, in our discretion.
+
+#### No waiver
+Our failure to act with respect to a breach of any of your obligations under this user agreement by you or others does not waive our right to act with respect to subsequent or similar breaches.
+
+### Indemnification and Limitation of Liability
+In this section, we use the term “Raly” to refer to TNX Inc., and all international subsidiaries owned by parent company, and our affiliates, and each of their respective directors, officers, employees, agents, joint venturers, service providers and suppliers. Our affiliates include each entity that we control, we are controlled by or we are under common control with.
+
+#### Indemnification
+You must indemnify Raly for actions related to your Raly account and your use of the Raly services. You agree to defend, indemnify and hold Raly harmless from any claim or demand (including reasonable legal fees) made or incurred by any third party due to or arising out of your breach of this user agreement, your improper use of the Raly services, your violation of any law or the rights of a third party and/or the actions or inactions of any third party to whom you grant permissions to use your Raly account or access our websites, software, systems (including any networks and servers used to provide any of the Raly services) operated by us or on our behalf, or any of the Raly services on your behalf.
+
+#### Limitation of liability
+Raly’s liability is limited with respect to your Raly account and your use of the Raly services. In no event shall Raly be liable for lost profits or any special, incidental or consequential damages (including without limitation damages for loss of data or loss of business) arising out of or in connection with our websites, software, systems (including any networks and servers used to provide any of the Raly services) operated by us or on our behalf, any of the Raly services, or this user agreement (however arising, including negligence), unless and to the extent prohibited by law.
+
+Our liability to you or any third parties in any circumstance is limited to the actual amount of direct damages. In addition, to the extent permitted by applicable law, Raly is not liable, and you agree not to hold Raly responsible, for any damages or losses (including, but not limited to, loss of money, goodwill, or reputation, profits, or other intangible losses or any special, indirect, or consequential damages) resulting directly or indirectly from: (1) your use of, or your inability to use, our websites, software, systems (including any networks and servers used to provide any of the Raly services) operated by us or on our behalf, or any of the Raly services; (2) delays or disruptions in our websites, software, systems (including any networks and servers used to provide any of the Raly services) operated by us or on our behalf and any of the Raly services; (3) viruses or other malicious software obtained by accessing our websites, software, systems (including any networks and servers used to provide any of the Raly services) operated by us or on our behalf or any of the Raly services or any website or service linked to our websites, software or any of the Raly services; (4) glitches, bugs, errors, or inaccuracies of any kind in our websites, software, systems (including any networks and servers used to provide any of the Raly services) operated by us or on our behalf or any of the Raly services or in the information and graphics obtained from them; (5) the content, actions, or inactions of third parties; (6) a suspension or other action taken with respect to your Raly account; or (7) your need to modify your practices, content, or behavior, or your loss of or inability to do business, as a result of changes to this user agreement or our policies.
+
+### Disclaimer of Warranty and Release
+#### No warranty
+The Raly services are provided “as-is” and without any representation or warranty, whether express, implied or statutory. We specifically disclaim any implied warranties of title, merchantability, fitness for a particular purpose and non-infringement.
+
+We do not have any control over the products or services provided by sellers who accept Raly as a payment method, and we cannot ensure that a Raly user or a seller you are dealing with will actually complete the transaction or is authorized to do so. We do not guarantee continuous, uninterrupted or secure access to any part of the Raly services, and operation of our websites, software, or systems (including any networks and servers used to provide any of the Raly services) operated by us or on our behalf may be interfered with by numerous factors outside of our control. We will make reasonable efforts to ensure that requests for electronic debits and credits involving bank accounts, debit cards, credit cards, and check issuances are processed in a timely manner but we make no representations or warranties regarding the amount of time needed to complete processing because the Raly services are dependent upon many factors outside of our control, such as delays in the banking system or the U.S. or international mail service. Some states do not allow the disclaimer of implied warranties, so the foregoing disclaimers may not apply to you.
+
+#### Your Release of Us
+If you have a dispute with any other Raly account holder, you release us from any and all claims, demands and damages (actual and consequential) of every kind and nature, known and unknown, arising out of or in any way connected with such disputes. In entering into this release you expressly waive any protections (whether statutory or otherwise, for example, California Civil Code § 1542) that would otherwise limit the coverage of this release to include only those claims which you may know or suspect to exist in your favor at the time of agreeing to this release.
+
+#### Agreement to Arbitrate
+If a dispute arises between you and Raly regarding the Raly services or otherwise, our goal is to learn about and address your concerns. If we are unable to do so to your satisfaction, we aim to provide you with a neutral and cost effective means of resolving the dispute quickly. Disputes between you and Raly regarding the Raly services may be reported to customer service online through the Raly Help Center at any time, or by calling 855-812-4430 from Mon-Fri 10:00 AM to 6:00 PM EST.
+
+ANY CLAIMS ARISING OUT OF, RELATING TO, OR CONNECTED WITH THIS USER AGREEMENT MUST BE ASSERTED INDIVIDUALLY IN BINDING ARBITRATION CONDUCTED BY A SINGLE ARBITRATOR WITH EXPERIENCE IN CONSUMER ONLINE PAYMENT SERVICES DISPUTES ADMINISTERED BY THE AMERICAN ARBITRATION ASSOCIATION (“AAA”) IN ACCORDANCE WITH ITS COMMERCIAL ARBITRATION RULES AND THE AAA SUPPLEMENTARY PROCEDURES FOR CONSUMER-RELATED DISPUTES. The forum for arbitration shall be in the city closest to your residence having a federal district courthouse. The arbitrator shall not conduct any form of class or collective arbitration nor join or consolidate claims by or for individuals. To the extent allowed by applicable law, the Arbitrator, and not any federal, state, or local court or agency, shall have exclusive authority to resolve any dispute relating to the interpretation, applicability, enforceability or formation of this user agreement including, but not limited to, any claim that all or any part of this user agreement is void or voidable. Judgment on the award rendered by the arbitrator may be entered in any court of competent jurisdiction. For any non-frivolous claim, Raly will pay the costs of the arbitration (but not your attorney fees), up to $3,000.
+
+This user agreement and each of its parts evidence a transaction involving interstate commerce, and the United States Arbitration Act shall apply in all cases and govern the interpretation and enforcement of the arbitration rules and arbitration proceedings. There are only two exceptions to this agreement to arbitrate. First, if we reasonably believe that you have in any manner violated or threatened to violate our intellectual property rights, we may seek injunctive or other appropriate relief in any court of competent jurisdiction. Second, any claim of $500 or less may, at the option of the claiming party, be resolved in small claims court in New York City, New York, if the claim and the parties are within the jurisdiction of the small claims court. For these two exceptions, you agree to submit to the personal jurisdiction of the courts located within New York City, New York for the purpose of litigating such claims or disputes.
+
+Waiver of Right to Jury; Class Action Waiver
+TO THE EXTENT ALLOWED BY LAW, YOU AGREE TO IRREVOCABLY WAIVE ANY RIGHT YOU MAY HAVE TO A TRIAL BY JURY OR OTHER COURT TRIAL (OTHER THAN SMALL CLAIMS COURT) OR TO SERVE AS A REPRESENTATIVE, AS A PRIVATE ATTORNEY GENERAL, OR IN ANY OTHER REPRESENTATIVE CAPACITY, OR TO PARTICIPATE AS A MEMBER OF A CLASS OF CLAIMANTS, IN ANY LAWSUIT, ARBITRATION OR OTHER PROCEEDING FILED AGAINST US AND/OR RELATED THIRD PARTIES.
+
+### Intellectual Property
+#### Our trademarks
+"Raly.com," "Raly," and all logos related to the Raly services are either trademarks or registered trademarks of Raly or Raly’s licensors. You may not copy, imitate, modify or use them without our prior written consent. In addition, all page headers, custom graphics, button icons, and scripts are service marks, trademarks, and/or trade dress of Raly. You may not copy, imitate, modify or use them without our prior written consent. You may use HTML logos provided by us for the purpose of directing web traffic to the Raly services. You may not alter, modify or change these HTML logos in any way, use them in a manner that mischaracterizes Raly or the Raly services or display them in any manner that implies Raly’s or Raly’s sponsorship or endorsement. All right, title and interest in and to the Raly websites, any content thereon, the Raly services, the technology related to the Raly services, and any and all technology and any content created or derived from any of the foregoing is the exclusive property of Raly and its licensors.
+
+#### License grants, generally
+If you are using our software such as an API, developer’s toolkit or other software application, which may include software provided by or integrated with software, systems or services of our service providers, that you have downloaded or otherwise accessed through a web or mobile platform, then Raly grants you a revocable, non-exclusive, non-sublicensable, non-transferable, royalty-free limited license to access and/or use our software in accordance with the documentation accompanying such software. This license grant applies to the software and all updates, upgrades, new versions and replacement software. You may not rent, lease or otherwise transfer your rights in the software to a third party. You must comply with the implementation, access and use requirements contained in all documentation accompanying the Raly services. If you do not comply with implementation, access and use requirements you will be liable for all resulting damages suffered by you, us and third parties. We may update or discontinue any software upon notice to you. While we may have (1) integrated certain third party materials and technology into any web or other application, including its software, and/or (2) accessed and used certain third party materials and technology to facilitate providing you with the Raly services, you have not been granted and do not otherwise retain any rights in or to any such third party materials. You agree not to modify, alter, tamper with, repair, copy, reproduce, adapt, distribute, display, publish, reverse engineer, translate, disassemble, decompile or otherwise attempt to create any source code that is derived from the software or any third party materials or technology, or otherwise create any derivative works from any of the software or third party materials or technology. You acknowledge that all rights, title and interest to our software are owned by Raly and any third party materials integrated therein are owned by our third party service providers. Any other third party software application you use on the Raly websites is subject to the license you agreed to with the third party that provides you with this software. You acknowledge that Raly does not own, control nor have any responsibility or liability for any such third party software application you elect to use on any of our websites, software and/or in connection with the Raly services.
+
+#### License grant from you to Raly; intellectual property warranties
+We do not claim ownership of the content that you provide, upload, submit or send to us. When you provide content to us or post content using Raly services, you grant us (and parties that we work with) a non-exclusive, irrevocable, royalty-free, transferable, and worldwide license to use your content and associated intellectual property and publicity rights to help us improve, operate and promote our current services and develop new ones. We will not compensate you for any of your content. You acknowledge that our use of your content will not infringe any intellectual property or publicity rights. Further, you acknowledge and warrant that you own or otherwise control all of the rights of the content you provide, and you agree to waive your moral rights and promise not to assert such rights against us.
+
+### Miscellaneous
+#### Assignment
+You may not transfer or assign any rights or obligations you have under this user agreement without our prior written consent. We may transfer or assign this user agreement or any right or obligation under this user agreement at any time.
+
+#### Business Days
+“Business Day(s)” means Monday through Friday, excluding holidays when Raly’s offices are not considered open for business in the U.S. Holidays include New Year’s Day (January 1), Martin Luther King, Jr.’s Birthday (the third Monday in January), George Washington’s Birthday (the third Monday in February), Memorial Day (the last Monday in May), Independence Day (July 4), Labor Day (the first Monday in September), Columbus Day (the second Monday in October), Veterans Day (November 11), Thanksgiving Day (the fourth Thursday in November) and Christmas Day (December 25). If a holiday falls on a Saturday, we observe the holiday on the prior Friday. If the holiday falls on a Sunday, we observe the holiday on the following Monday.
+
+#### Consumer fraud warning
+We’re always looking for ways to help keep you even more secure. So stay on the lookout for some of these common scams:
+
+Seller Scam: a scammer sends you a fraudulent payment for goods or services you provide outside of Raly.
+Accidental Payment: a scammer sends you a fraudulent payment, claims it was accidental, and asks that you return their money.
+Always use common sense when sending money. If something sounds too good to be true, it probably is. Only send money for yourself and not for others. Remember that if you don’t make a purchase from an authorized merchant or with your Raly Mastercard, you’re not covered by Raly Protected Purchase Program. Please let us know immediately if you believe someone is trying to scam or defraud you by contacting us.
+
+#### Dormant accounts
+If you do not log in to your Raly account for two or more years, we may close your Raly account and send any of your funds held in our possession to your primary address (if we have verified the required identifying information that you have provided to us) or, if required, escheat (send) any of your funds held in our possession to your state of residency. We will determine your state of residency based on the information provided for your Raly account. If your address is unknown, any of your funds held in our possession will be escheated to the State of Delaware. Where required, we will send you a notice prior to escheating any of your funds. If you fail to respond to this notice, your funds held in our possession will be escheated to the applicable state. If you would like to claim any escheated funds from the applicable state, please contact the applicable state’s unclaimed property administrator.
+
+#### Google Maps
+Your use of Google Maps while using the Raly services on the Raly app is subject to the then-current Google Maps/Google Earth Additional Terms of Service at https://maps.google.com/help/terms_maps.html and Google Privacy Policy at https://www.google.com/policies/privacy/.
+
+### Governing law
+You agree that, except to the extent inconsistent with or preempted by federal law and except as otherwise stated in this user agreement, the laws of the State of New York, without regard to principles of conflict of laws, will govern this user agreement and any claim or dispute that has arisen or may arise between you and Raly regarding your use of the Raly services.
+
+#### Identity authentication
+You authorize us, directly or through third parties, to make any inquiries we consider necessary to verify your identity. This may include:
+
+asking you for further information, such as your date of birth, a social security or taxpayer identification number, your physical address and other information that will allow us to reasonably identify you;
+requiring you to take steps to confirm ownership of your email address, phone number or financial instruments;
+ordering a credit report from a credit reporting agency, or verifying your information against third party databases or through other sources; or
+requiring you to provide your driver’s license or other identifying documents.
+Anti-money laundering and counter-terrorism financing laws may require that we verify the required identifying information if you use certain Raly services. We reserve the right to close, suspend, or limit access to your Raly account and/or the Raly services in the event that, after reasonable enquiries, we are unable to obtain information about you required to verify your identity.
+
+#### Money Transmitter Licenses
+TNX Inc. is a licensed provider of money transfer services and all money transmission is provided by Tnx Inc.’s partners and their licenses. See our licenses for additional information and for disclosures that Company is required to post by certain jurisdictions.
+
+#### Raly is only a payment service provider
+We act as a payment service provider only. We do not:
+
+Act as an escrow agent with respect to any money sent to you on Raly that has not been transferred;
+Act as your agent or trustee;
+Enter into a partnership, joint venture, agency or employment relationship with you;
+Guarantee the identity of any user or seller;
+Determine if you are liable for any taxes; or
+Unless otherwise expressly set out in this agreement, collect or pay any taxes that may arise from your use of our services.
+Privacy
+Protecting your privacy is very important to us. Please review our Privacy Policy in order to better understand our commitment to maintaining your privacy, as well as our use and disclosure of your information.
+
+### State disclosures
+In addition to reporting complaints about the Raly services directly to us as described above, if you are a California resident, you may report complaints to the California Department of Business Oversight by mail at Department of Business Oversight. To make such a request, send a letter to Raly to: Tnx Inc., Attention: Legal Department, include your email address, and your request for that information by email.
+
+#### Third party providers
+The Raly app works on an application linked to a particular device and operating system, such as Apple’s iOS operating system. Your use of the Raly services may be subject to separate agreements you may enter into with your mobile device operating system provider (e.g., Apple, Google or Microsoft®), your mobile device manufacturer (e.g., Apple, Samsung®), your mobile service carrier (e.g., Bell®, Rogers®, AT&T® or Verizon®), and other parties involved in providing your mobile device service, which we collectively refer to as “Covered Third Parties.” You agree to comply with all applicable third-party terms of agreement when using the Raly Services. We are not a party to those agreements and we have no responsibility for the products and services provided by third parties. You acknowledge and agree that this agreement is between you and Raly, not with any Covered Third Party. You acknowledge and agree that we are solely responsible for the Raly services and for providing maintenance and support services for the Raly services.
+
+Covered Third Parties have no warranty obligations whatsoever with respect to the Raly Services and any other claims, losses, liabilities, damages, costs or expenses attributable to any failure of the Raly services to conform to any warranty provided by us, if any, will be our sole responsibility.
+
+We, not any Covered Third Parties, are responsible for addressing any claims relating to the Raly services, including, but not limited to: (i) product liability claims; (ii) any claim that the Raly Services fail to conform to any applicable legal or regulatory requirement; (iii) claims arising under consumer protection, privacy, or similar legislation; and (iv) intellectual property claims.
+
+If you are using the Raly Services on an Apple device, you acknowledge and agree that Apple, and Apple’s subsidiaries, are third party beneficiaries of this Agreement, and that Apple will have the right (and will be deemed to have accepted the right) to enforce this agreement against you as a third party beneficiary. Such rights may also accrue to other handset manufacturers and operating systems which participate in the Raly services.
+
+#### Unlawful internet gambling notice
+Restricted transactions as defined in Federal Reserve Regulation GG are prohibited from being processed through your Raly account or your relationship with Raly. Restricted transactions generally include, but are not limited to, transactions in which credit, electronic fund transfers, checks, or drafts are knowingly accepted by gambling businesses in connection with unlawful Internet gambling.
+
+### our use of information; Data protection laws
+If you receive information about another Raly customer, you must keep the information confidential and only use it in connection with the Raly services. You may not disclose or distribute any information about Raly users to a third party or use the information for marketing purposes unless you receive that user’s express consent to do so. You may not send unsolicited emails to a Raly customer or use the Raly services to collect payments for sending, or assist in sending, unsolicited emails to third parties.
+
+The privacy and data protection laws that may apply include any associated regulations, regulatory requirements and codes of practice applicable to the provision of the services described in this agreement.
+
+In complying with such laws, you will:
+
+implement and maintain all appropriate security measures for the processing of personal data; and
+not knowingly do anything or permit anything to be done which might lead to a breach of any privacy data protection laws by us.
